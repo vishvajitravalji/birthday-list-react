@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/birthday_list_react/static/css/main.e3db61a9.chunk.css",
-    "main.js": "/birthday_list_react/static/js/main.f65b8c84.chunk.js",
-    "main.js.map": "/birthday_list_react/static/js/main.f65b8c84.chunk.js.map",
-    "runtime-main.js": "/birthday_list_react/static/js/runtime-main.bf9fd2cb.js",
-    "runtime-main.js.map": "/birthday_list_react/static/js/runtime-main.bf9fd2cb.js.map",
-    "static/js/2.4b275db2.chunk.js": "/birthday_list_react/static/js/2.4b275db2.chunk.js",
-    "static/js/2.4b275db2.chunk.js.map": "/birthday_list_react/static/js/2.4b275db2.chunk.js.map",
-    "index.html": "/birthday_list_react/index.html",
-    "static/css/main.e3db61a9.chunk.css.map": "/birthday_list_react/static/css/main.e3db61a9.chunk.css.map",
-    "static/js/2.4b275db2.chunk.js.LICENSE.txt": "/birthday_list_react/static/js/2.4b275db2.chunk.js.LICENSE.txt"
+    "main.css": "/birthday-list-react/static/css/main.e3db61a9.chunk.css",
+    "main.js": "/birthday-list-react/static/js/main.f65b8c84.chunk.js",
+    "main.js.map": "/birthday-list-react/static/js/main.f65b8c84.chunk.js.map",
+    "runtime-main.js": "/birthday-list-react/static/js/runtime-main.a11f65aa.js",
+    "runtime-main.js.map": "/birthday-list-react/static/js/runtime-main.a11f65aa.js.map",
+    "static/js/2.4b275db2.chunk.js": "/birthday-list-react/static/js/2.4b275db2.chunk.js",
+    "static/js/2.4b275db2.chunk.js.map": "/birthday-list-react/static/js/2.4b275db2.chunk.js.map",
+    "index.html": "/birthday-list-react/index.html",
+    "static/css/main.e3db61a9.chunk.css.map": "/birthday-list-react/static/css/main.e3db61a9.chunk.css.map",
+    "static/js/2.4b275db2.chunk.js.LICENSE.txt": "/birthday-list-react/static/js/2.4b275db2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf9fd2cb.js",
+    "static/js/runtime-main.a11f65aa.js",
     "static/js/2.4b275db2.chunk.js",
     "static/css/main.e3db61a9.chunk.css",
     "static/js/main.f65b8c84.chunk.js"
